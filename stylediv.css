@@ -1,0 +1,33 @@
+.BackDrop
+{
+	height: 560;
+	width: 1000;
+	border-left:solid #000000;border-width:1px;  
+	border-right:solid #000000;border-width:1px;  
+	border-top:solid #000000;border-width:1px;  
+	border-bottom:solid #000000;border-width:1px;  	
+	font-family: Verdana, Arial;
+	font-size:9pt;
+	color: #000000;	
+		
+}
+.res1
+{
+	height: 192;
+	width: 192;
+/*	background-image: url('test.gif'); */
+	border-left:solid #ff0000;border-width:1px;  
+	border-right:solid #ff0000;border-width:1px;  
+	border-top:solid #ff0000;border-width:1px;  
+	border-bottom:solid #ff0000;border-width:1px;  	
+	font-family: Verdana, Arial;
+	font-size:8pt;
+	color: #00ff00;	
+	margin-top:20px;
+	padding-top:20px;
+	padding-left:25px;
+	padding-bottom:20px;
+	padding-right:25px;	
+	alignment: left;
+	overflow:hidden;
+}
