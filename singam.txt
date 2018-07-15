@@ -1,5 +1,0 @@
-This is test file
-
-To check GIT functionality
-
-Thanks
